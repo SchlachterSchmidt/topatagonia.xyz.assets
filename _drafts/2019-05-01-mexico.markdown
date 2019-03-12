@@ -1,0 +1,43 @@
+---
+layout: post
+bg: "5.jpg"
+title:  Mexico
+date:   2019-05-01 10:50:10 
+categories: jekyll photo-gallery
+---
+
+After a 10 hour flight from Manchster, we finally arrived in Mexico for the first leg of our long journey and marry our friends on a beautiful beach near Xpu Ha.<br><br>
+The flight took us over New Foundland and the Florida Keys to Cancun Airport where we were greeted by some long expected sunshine. In fact, the heat was almost unbearable at first but we got used to it quickly. The first impression was shock at  how 'Americanized' the place felt, from the massive cars, road signs to the advertisements everywhere. A short _collectivo_ ride to the hotel where the wedding was going to take place later, we  found ourselves with a cocktail in our hands and with sand between our toes.
+
+The resort was beautiful, and by far the most comfortable we will be for a long time, although this type of holidays would not be our preference. A few days passed with very little to do, as unfortunately we had to cancel some plans for excursions out of the hotel... so Chitzen Itza will have to wait until next time. 
+
+And then, the big day arrived, the reason we came to Mexico and also what inspired us to go on our big adventure. The wedding of our dear friends Gabi and Paulo. Annette was the one marrying the two during the sunset, and she had spent the previous days entertaining Lizards, Birds and a Capybara outside of our room by rehearsing the script for the ceremony. Big love for Gabi and Paulo <3, and also thanks to Doug and Jana for their translation of the script. _Muito obrigado_!
+
+Some days after the wedding, we joined Gabi and Paulo on their honeymoon. First to the stunning Isla Holbox, just west of Cancun. Holbox is a natural reserve island with a magnificent flora and fauna, where cars are not allowed (with some exceptions). Most transportation is either by bike or golf cart, which are a lot of fun because the roads are mostly pot holes and rocks. It was a pleasant change from the sanitized living in the resort.. until we found a scorpion in our bedroom. Luckily we had only one night left at that point and before going to bed we made sure no unwanted passenger hid away in our backpacks.
+
+During our stay we spent a day visiting nearby islands, uninhabited by humans. One of them is a natural home to dozens of species of birds, like Pelicans and Flamingos. We were glad not to set foot on this island but to observe from some distance. Thankfully, the protection of the natural reserve is more important than tourism here. On the ride to the islands, we were even greeted by three curious dolphins circling around our boat in a safe distance.
+
+By golf cart, ferry, taxi, bus and plane we made it safe and sound to La Habana in Cuba.. but that's a story for the next time.
+
+![Together in Mexico](/assets/images/posts/mexico/6.jpg)
+
+<b>POLSKI</b>
+
+![The rules are meant to be broken](/assets/images/posts/mexico/12.jpg)
+
+<b>DEUTSCH</b>
+Nach unserem 10 Stunden Flug von Manchester sind wir endlich in Mexiko angekommen, für den ersten Teil unserer langen Reise und um unsere Freunde an einem wunderschönen Strand in der Nähe von Xpu Ha zu verheiraten.
+
+Der Flug führte uns über Neufundland und die Florida Keys nach Cancun, wo wir von dem lange erwarteten Sonnenschein begrüßt worden sind. Die Hitze war zuerst fast unerträglich, aber wir haben uns schnell daran gewöhnt. Unser erster Eindruck war Schock darüber, wie 'Amerikanisiert' es sich hier anfühlte, von den gigantischen Autos und Straßenschildern zu den enormen Werbeplakaten an jeder Ecke. Einen kurzen Trip mit einem _Collectivo_ zum Hotel später, wo in einigen Tagen die Hochzeit stattfinden sollte, fanden wir uns schon mit einem Cocktail in der Hand und Sand zwischen unseren Zehen wieder.
+
+Das Barcelo Maya Resort war schön, und bot uns bei weitem den meisten Komfort, den wir für eine lange Zeit haben werden. Dennoch ist diese Art von Urlaub nicht wofür wir hergekommen sind. Einige Tage vergingen mit sehr wenig zu tun, da wir leider einige Pläne für Exkursionen aus dem Hotel absagen mussten... Chizen Itza muss bis zum nächsten Mal warten.
+
+Und dann war er auch schon da, der große Tag, weswegen wir nach Mexiko gekommen sind, und was uns zu unseren langen Reise inspiriert hat: Die Hochzeit von unseren Freunden Gabi und Paulo. Annette war diejenige, die die Beiden beim Sonnenuntergang verheiratet hat, und sie verbrachte die vorherigen Tage damit, Eidechsen, Vöge und einen Capybara mit dem Üben ihrer Rede zu unterhalten. Einen lieben Gruß and Paulo und Gabi <3, und danke ausserdem an Doug und Jana für ihre Übersetzungen. _Muito obrigado_!
+
+Einige Tage nach der Hochzeit sind wir dann mit Gabi und Paulo weitergereist, zuerst auf die unglaublich schöne Isla Holbox, westlich von Cancun. Holbox ist eine Insel, größtenteils ein Naturreservat, mit wundervoller Flora und Fauna, wo Autos nicht erlaubt sind (mit einigen wenigen Ausnahmen). Der Verkehr wird mit Fahrrad oder Golfcart bewältigt, und ist sehr Spaßig, da die Straßen hauptsächlich aus Löchern und Steinbrocken bestehen. Was für eine willkommene Abwechslung von der sterilen Hotelwelt... bis wir einen Skorpion in unserem Schlafzimmer gefunden haben! Glücklicherweise hatten wir da nur noch eine Nacht zu verbringen, und bevor wir uns schlafen legten, mussten wir sicherstellen, dass sich keine ungewollten Passagiere in unserem Gepäck versteckten. 
+
+Während unsres Aufenthalts haben wir nahegelegene Inseln besucht, die von Menschen unbewohnt, doch das Zuhause von dutzenden Vogelarten, wie Pelikanen und Flamingos sind. Wir waren Froh, keinen Fuß auf diese Insel zu setzen, und nur aus einiger Distanz zu beobachten. Glücklicherweise hat der Schutz der Natur hier vorrang vor dem Tourismus. Während der Bootsfahrt sind wir sogar von drei neugierigen Delphinen begrüßt worden, die in sicherem Abstand um unser Boot schwammen. 
+
+Mit Golfcart, Fähre, Taxi, Bus und Flugzeug ging es dann weiter nach La Habana in Kuba.. Doch das ist eine Geschichte für's nächste Mal.
+
+{% includeGallery mexico%}
