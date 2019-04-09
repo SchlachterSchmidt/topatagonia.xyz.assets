@@ -3,7 +3,6 @@
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 3000; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -48,7 +47,6 @@
   max-width: 700px;
   text-align: center;
   color: #ccc;
-  padding: 10px 0;
   height: 150px;
   font-family: sans-serif;
   color: #fff;
@@ -63,6 +61,7 @@
   font-size: 40px;
   font-weight: bold;
   transition: 0.3s;
+  z-index: 3001;
 }
 
 #close:hover,
@@ -73,7 +72,7 @@
 }
 
 /* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 900px){
   .modal-image, #modal-content {
     width: 100%;
   }
