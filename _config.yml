@@ -8,12 +8,12 @@
 # Site settings
 title: Our Journey to Patagonia
 email: schlachter.schmidt@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   This is our small blog about our trip from Ireland to Germany, onwards to
   Mexico and Cuba, and finally from Columbia to Patagonia.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://localhost:4000"
 disqus_username:
 
 # Build settings
@@ -32,13 +32,13 @@ compress_html:
   clippings: all
   endings: all
 
-
+# Styling options
 sass:
   sass_dir: assets/_sass
   style: compressed
 
-
 images: '/assets/images/page'
 
+# Build settings
 exclude:
   - build.py
