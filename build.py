@@ -1,9 +1,11 @@
 import subprocess
 import os
+import argparse
 from shutil import rmtree, copy
 
 
-def build():
+
+def build(message):
     skip_files = ['.git', '.gitignore', '.nojekyll', 'build.py']
     target_path = '../topatagonia.xyz'
     target_dir = os.path.abspath(target_path)
@@ -28,7 +30,7 @@ def build():
             print("\tskipping: " + os.path.abspath(current))
     print('..cleaned up previous build successfully\n')
 
-    print('\n..moving built page files into site directory')
+    print('\n..copying built page files into site directory')
     os.chdir(project_dir + '/_site')
     for dirName, subdirList, fileList in os.walk('.'):
         if dirName != '.':
@@ -39,7 +41,16 @@ def build():
             copy(dirName  + '/' + fname, target_dir  + dirName[1:])
     print('..successffully moved files into site directory\n')
 
-    print('all done :) the page is ready to be published')
+
+    print('\n..publishing site at topatagonia.xyz')
+    os.chdir(target_dir)
+    cmd = 'git add . && git commit -m \"{}\" && git push'.format(message)
+    print(cmd)
+    subprocess.run(cmd, shell=True)
+    print('..all done :) the page is now published')
 
 if __name__ == "__main__":
-    build()
+    parser = argparse.ArgumentParser(description='build and deploy the latest update to topatagonia.xyz')
+    parser.add_argument('-m', '--message', help='commit message for the next build of topatagonia.xyz', required=True)
+    args = parser.parse_args()
+    build(message=args.message)
