@@ -1,22 +1,45 @@
+# "album" has to be the same name as a folder contaning all the images in assets/posts/
+# "title" is the description under picture in the gallery
+
 photos:
-  - title: Monument Valley - Navajo Nation
-    img: IMG_4075
+# Leaving Ireland
+  - title: So messy...
+    img: "1"
+    country: Ireland
+    album: leaving-ireland
+  - title: We're going either with or without the pedal :D
+    img: "2"
+    country: Ireland
+    album: leaving-ireland
+  - title: ...two people vs one pedal
+    img: "3"
+    country: Ireland
+    album: leaving-ireland
+  - title: It is exhausting alright
+    img: "4"
+    country: Ireland
+    album: leaving-ireland
+  - title: Finally... all packed!
+    img: "5"
+    country: Ireland
+    album: leaving-ireland
+  - title: Some of P's ties already up for sale in our local charity store
+    img: "6"
+    country: Ireland
+    album: leaving-ireland
+  - title: A's 9 months worth of stuff...
+    img: "7"
+    country: Ireland
+    album: leaving-ireland
+  - title: ...all fit in here ;-) Mastermind of long term travel packing!
+    img: "8"
+    country: Ireland
+    album: leaving-ireland
+  - title: One last Boojum burrito :( nostalgic moods alright
+    img: "9"
+    country: Ireland
+    album: leaving-ireland
+  - title: And A's new favourite item in the world.. Freedom ring! (Paulina <3)
+    img: "10"
     country: United States of America
-    description: Navajo Nation in Monument Valley is a semi-autonomous Native American-governed territory. The rock formations there make it one of the most amazing places in the USA.
-    album: UsaSommer2015
-  - title: A giants sandbox
-    img: IMG_4102
-    country: United States of America
-    album: UsaSommer2015
-  - title: Over the cliff
-    img: IMG_4627
-    country: United States of America
-    album: UsaSommer2015
-  - title: Freedom
-    img: IMG_4632
-    country: United States of America
-    album: UsaSommer2015
-  - title: Sunset over the Grand Canyon
-    img: IMG_4668
-    country: United States of America
-    album: UsaSommer2015
+    album: leaving-ireland
