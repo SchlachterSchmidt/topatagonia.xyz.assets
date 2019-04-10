@@ -12,7 +12,7 @@ module Jekyll
           if(curr["album"] == text.strip)
             @result = @result+'<div itemscope itemtype="http://schema.org/Photograph">
                                  <a itemprop="image" class="swipebox" title="'+curr["title"]+'">
-                                   <img data-value="'+count.to_s+'" class="gallery-image" alt="'+curr["title"]+'" itemprop="thumbnailUrl" src="/assets/images/posts/'+curr["img"]+'.jpg"/>
+                                   <img data-value="'+count.to_s+'" class="gallery-image" alt="'+curr["title"]+'" itemprop="thumbnailUrl" src="/assets/images/posts/'+text+'/'+curr["img"]+'.jpg"/>
                                    <meta itemprop="name" content="'+curr["title"]+'" />
                                  </a>
                                </div>'
@@ -31,7 +31,7 @@ module Jekyll
       photos.each do |photo, details|
         [nil, *details, nil].each_cons(3){|prev, curr, nxt|
           if(curr["album"] == text.strip)
-            @result = @result+'<img data-value="'+count.to_s+'" class="modal-image" alt="'+curr["title"]+'" src="/assets/images/posts/'+curr["img"]+'.jpg"/>'
+            @result = @result+'<img data-value="'+count.to_s+'" class="modal-image" alt="'+curr["title"]+'" src="/assets/images/posts/'+text+'/'+curr["img"]+'.jpg"/>'
             count += 1
           end
         }
