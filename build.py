@@ -37,14 +37,14 @@ def build(message):
             print('making directory: %s' % target_dir + dirName[1:])
             os.mkdir(target_dir + dirName[1:])
         for fname in fileList:
-            print('copying: ' + dirName  + '/' + fname)
+            print('copying: ' + dirName  + '/' + fname + 'to ' + target_dir + dirName[1:])
             copy(dirName  + '/' + fname, target_dir  + dirName[1:])
     print('..successffully moved files into site directory\n')
 
 
     print('\n..publishing site at topatagonia.xyz')
     os.chdir(target_dir)
-    cmd = 'git add . && git commit -m \"{}\" && git push'.format(message)
+    cmd = 'cd ../topatagonia.xyz && git checkout master && git add . && git commit -m \"{}\" && git push'.format(message)
     print(cmd)
     subprocess.run(cmd, shell=True)
     print('..all done :) the page is now published')
