@@ -35,7 +35,7 @@ A w międzyczasie musieliśmy też pamiętać o naszej wielkiej wyprawie do Amer
 
 Muszę przyznać, że byliśmy bardzo zorganizowani jak chodzi o przeprowadzkę i dzięki temu zorganizowaniu kiedy nadeszły trudniejsze chwile mogliśmy lepiej sobie z nimi poradzić. Ale nie było źle! Mieliśmy jedynie mały problem ze spakowaniem rowerów w dzień przed przeprowadzką - pedał na rowerze Phila w ogóle nie chciał zejść. Starciliśmy na tym praktycznie cały dzień i koniec końcow Phil zostawił mnie w pudłach i poszedł do sklepu rowerowego - okazało się, że pedał musiał zostać tam zniszczony a my mogli byli byśmy się z nim szarpać cały dzień i noc a bez cięższej artylerii nic byśmy nie wskórali.<br>
 
-Tydzień przed naszym wylotem do Niemiec firma przewozowa odebrała nasz minimalistyczny 17 pudłowy dobytek (nie tak dużo jak na 10 lat!) i zostaliśmy sam na sam jedyne z naszymi spakowanymi plecakami. Ouu yeah!<br>
+Tydzień przed naszym wylotem do Niemiec firma przewozowa odebrała nasz minimalistyczny 17 pudłowy dobytek (nie tak dużo jak na 10 lat!) i zostaliśmy sam na sam jedynie z naszymi spakowanymi plecakami. Ouu yeah!<br>
 
 W przeddzień wylotu do Niemiec zwróciliśmy klucze do mieszkania, zjedliśmy ukochane burrito oraz wpadliśmy na pomysł nowej sieci restauracji meksykańskiej - "Burrito ergo sum". Po takim dość długim dniu ruszyliśmy do Paulinki i Jacka (dzięki za wszystko kochana moja!) aby po raz ostatni usnąć słysząc nocny śpiew irlandzkich mew... 
 
