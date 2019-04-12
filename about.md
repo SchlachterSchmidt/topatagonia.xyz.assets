@@ -1,5 +1,5 @@
 ---
-bg: "owl.jpg"
+bg: "us.jpg"
 layout: page
 title: "About us"
 permalink: /about/

@@ -25,7 +25,7 @@ Last night before the departure we went to give up the apartment keys, grabbed o
 <b>POLSKI</b>
 
 Wpadliśmy na taki pomysł końcem zeszłego roku, że uciekamy z Irlandii na dobre. Po prawie 10 latach stwierdziliśmy, że to już czas na nowy start.<br><br>
-Nasi przyjeciele Gabi i Paulo mieli zaplanowane wesele w Meksyku w kwietniu 2019 i, jako że byliśmy zaproszeni, ustaliliśmy, że bardzo fajnie się to złoży z naszą szaloną decyzją. Na początku nie mieliśmy w planach wielkich podróży - myśleliśmy, że może Meksyk, Kuba i powrót będzie w sam raz. Ale jak to my, okazało się, że z miesiąca na Kubie i Meksyku wykluł się bardzo szybko pomysł przekroczenia Ameryki Południowej od góry do dołu - zaczynając od Kolumbii a kończąc na Patagonii.<br>
+Nasi przyjeciele Gabi i Paulo mieli zaplanowane wesele w Meksyku w kwietniu 2019 i, jako że byliśmy zaproszeni, ustaliliśmy, że bardzo fajnie się to złoży z naszą szaloną decyzją. Na początku nie mieliśmy w planach wielkich podróży - myśleliśmy, że może Meksyk, Kuba i powrót będzie w sam raz. Ale jak to my, okazało się, że z miesiąca na Kubie i Meksyku wykluł się bardzo szybko pomysł przekroczenia Ameryki Południowej od góry do dołu - zaczynając od Kolumbii a kończąc na Patagonii - stąd też nazwa bloga :) <br>
 
 Wyjazd z Irlandii był dość trudną decyzją przede wszystkim ze względu na to, że byliśmy bardzo zadowoleni z tego czego dotąd tutaj osiągneliśmy, szczególnie jeśli chodzi o pracę która była jakby nie patrzeć spełnieniem naszych marzeń... Tylko, że w życiu tak naprawdę nigdy nie ma dobrego momentu na robienie szalonych rzeczy więc zdecydowaliśmy, że właściwy moment nadszedł właśnie teraz.<br>
 
