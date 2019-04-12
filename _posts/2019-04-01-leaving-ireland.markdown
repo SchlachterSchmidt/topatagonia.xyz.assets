@@ -22,6 +22,8 @@ The company picked up our 17 boxes (it's not all that much after 10 years, is it
 
 Last night before the departure we went to give up the apartment keys, grabbed our absolute no 1 food - burritos. Oh! We also came up with a name for our own burrito chain when we grow up - "Burrito ergo sum" - and after a long day like this we headed to our friends' place (Paulina and Jacek - thank you!) to fall asleep hearing seagulls that one last time...<br>
 
+![Raodtripping](/assets/images/posts/leaving-ireland/roadtripping.jpg)
+
 <b>POLSKI</b>
 
 Wpadliśmy na taki pomysł końcem zeszłego roku, że uciekamy z Irlandii na dobre. Po prawie 10 latach stwierdziliśmy, że to już czas na nowy start.<br><br>
@@ -38,6 +40,8 @@ Muszę przyznać, że byliśmy bardzo zorganizowani jak chodzi o przeprowadzkę�
 Tydzień przed naszym wylotem do Niemiec firma przewozowa odebrała nasz minimalistyczny 17 pudłowy dobytek (nie tak dużo jak na 10 lat!) i zostaliśmy sam na sam jedynie z naszymi spakowanymi plecakami. Ouu yeah!<br>
 
 W przeddzień wylotu do Niemiec zwróciliśmy klucze do mieszkania, zjedliśmy ukochane burrito oraz wpadliśmy na pomysł nowej sieci restauracji meksykańskiej - "Burrito ergo sum". Po takim dość długim dniu ruszyliśmy do Paulinki i Jacka (dzięki za wszystko kochana moja!) aby po raz ostatni usnąć słysząc nocny śpiew irlandzkich mew... 
+
+![Raodtripping](/assets/images/posts/leaving-ireland/watch.jpg)
 
 <b>DEUTSCH</b>
 
