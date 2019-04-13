@@ -44,7 +44,7 @@ def build(message):
 
     print('\n..publishing site at topatagonia.xyz')
     os.chdir(target_dir)
-    cmd = 'cd ../topatagonia.xyz && git checkout master && git add . && git commit -m \"{}\" && git push'.format(message)
+    cmd = 'cd ../topatagonia.xyz && git checkout master && git pull && git add . && git commit -m \"{}\" && git push'.format(message)
     print(cmd)
     subprocess.run(cmd, shell=True)
     print('..all done :) the page is now published')
