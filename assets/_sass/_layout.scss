@@ -199,7 +199,6 @@ main {
   &:after {
     content: "***";
     position: absolute;
-    margin-top: 1em;
     width: 100px;
     left: 50%;
   }
@@ -234,6 +233,10 @@ article {
     padding: .2em;
     background-color: #fff;
   }
+}
+
+a.block-link {
+    text-decoration: none;
 }
 
 .post-meta {

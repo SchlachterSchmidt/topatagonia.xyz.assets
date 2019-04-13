@@ -8,6 +8,8 @@ categories: jekyll photo-gallery
 
 
 We got this crazy idea late last year that we were gonna leave Ireland. After almost 10 years we thought it's time for a fresh start.<br><br>
+
+
 Our lovely friends Gabi and Paulo were gonna get married in Mexico in April 2019 and so we thought it's a good time to wrap our business up too. At first we didn't think of doing much travelling - maybe Mexico and Cuba only but with time it grew... It was gonna be a month of travelling.. then 3 months and then we decided to stay in South America for the rest of the year and cross from Columbia to Patagonia. That's also where the name for our blog comes from :)<br>
 
 It was a hard decision after so many years, especially because we loved our jobs and got to do exactly what we both wanted. But it's never a good timing for anything in life anyway, it's always too late or too early so this time we decided to wing it.<br>
