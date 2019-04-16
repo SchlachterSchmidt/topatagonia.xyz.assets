@@ -47,3 +47,45 @@ photos:
     img: "11"
     country: Ireland
     album: leaving-ireland
+
+# in Germany
+  - title: On the plane to Germany
+    img: "1"
+    country: Germany
+    album: in-germany
+  - title: Working hard on the blog
+    img: "4"
+    country: Germany
+    album: in-germany
+  - title: Enjoying the first rays of sunshine
+    img: "5"
+    country: Germany
+    album: in-germany
+  - title: Family car roadtrip to the supermarket
+    img: "6"
+    country: Germany
+    album: in-germany
+  - title: Another one from the forest
+    img: "8"
+    country: Germany
+    album: in-germany
+  - title: Annette making sure that all the boxes arrived
+    img: "9"
+    country: Germany
+    album: in-germany
+  - title: Paparazzi protection mode on
+    img: "10"
+    country: Germany
+    album: in-germany
+  - title: Bouncy times
+    img: "11"
+    country: Germany
+    album: in-germany
+  - title: The cows approve
+    img: "12"
+    country: Germany
+    album: in-germany
+  - title: English bad, message good
+    img: "13"
+    country: Germany
+    album: in-germany

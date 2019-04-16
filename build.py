@@ -18,6 +18,8 @@ def build(message):
 
     print('\n..cleaning up previous build')
     os.chdir(target_dir)
+    cmd = "git checkout master && git pull"
+    subprocess.run(cmd, shell=True)
     for current in os.listdir():
         if current not in skip_files:
             if  os.path.isfile(current):
@@ -44,7 +46,7 @@ def build(message):
 
     print('\n..publishing site at topatagonia.xyz')
     os.chdir(target_dir)
-    cmd = 'cd ../topatagonia.xyz && git checkout master && git pull && git add . && git commit -m \"{}\" && git push'.format(message)
+    cmd = 'cd ../topatagonia.xyz && git add . && git commit -m \"{}\" && git push'.format(message)
     print(cmd)
     subprocess.run(cmd, shell=True)
     print('..all done :) the page is now published')
