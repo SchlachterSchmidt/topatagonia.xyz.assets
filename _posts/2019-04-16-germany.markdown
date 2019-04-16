@@ -2,7 +2,7 @@
 layout: post
 bg: "forest-germany.jpg"
 title:  In Germany
-date:   2019-04-15 22:50:10 
+date:   2019-04-16 17:38:10 
 categories: jekyll photo-gallery
 ---
 
@@ -38,6 +38,6 @@ Unsere Habseligkeiten sind heile angekommen, und wir haben uns daran gemacht, un
 
 Wir sind auf eine kleine Wanderung in einem naheliegenden Wald gegangen, haben das örtliche Schwimmbad besucht (wo Annette zum ersten Mal mit dem Kopf voran ins Wasser gesprungen ist und jetzt bereit zum Schnorcheln ist) und ein Trampolincenter ausprobiert. Phil hat seine perfekte Reiseuhr gefunden nach einer unangenehmen Erfahrung mit Ebay. Damit hätten unsere Vorbereitungen eigentlich abgeschlossen sein sollen... bis Philipp seinen Gürtel verlogen hat. Doch das ist vielleicht eine Geschichte für ein anderes Mal.
 
-Unser Flug nach Manchester geht morgen, und damit wird es ernst! Diesen Abend haben wir mit Rucksackpacktest nummer 13 verbracht. Doch das sollte nun das letzte Mal sein, alles ist jetzt sicher verstaut, und jede Ecke unserer Rucksäcke ist ausgefüllt. Auf gehts.. 
+Unser Flug nach Manchester geht morgen Früh, und damit wird es ernst! Diesen Abend haben wir mit Rucksackpacktest nummer 13 verbracht. Doch das sollte nun das letzte Mal sein, alles ist jetzt sicher verstaut, und jede Ecke unserer Rucksäcke ist ausgefüllt. Auf gehts.. 
 
 {% includeGallery in-germany%}
