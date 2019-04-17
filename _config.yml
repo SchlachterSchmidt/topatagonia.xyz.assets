@@ -14,7 +14,7 @@ description: >
 baseurl: ""
 lang: "en"
 # Disqus
-discus-identifier: arfro
+discus-identifier: topatagonia-xyz-1
 
 # Build settings
 markdown: kramdown
