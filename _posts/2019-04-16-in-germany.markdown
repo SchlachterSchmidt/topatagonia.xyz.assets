@@ -1,7 +1,7 @@
 ---
 layout: post
 bg: "forest-germany.jpg"
-title:  In Germany
+title:  Hi Germany!
 date:   2019-04-16 17:38:10 
 categories: jekyll photo-gallery
 ---
