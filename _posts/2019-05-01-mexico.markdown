@@ -2,11 +2,12 @@
 layout: post
 bg: "5.jpg"
 title:  Mexico
-date:   2019-05-01 10:50:10 
+date:   2019-05-05 10:50:10 
 categories: jekyll photo-gallery
 ---
 
 After a 10 hour flight from Manchster, we finally arrived in Mexico for the first leg of our long journey and marry our friends on a beautiful beach near Xpu Ha.<br><br>
+
 The flight took us over New Foundland and the Florida Keys to Cancun Airport where we were greeted by some long expected sunshine. In fact, the heat was almost unbearable at first but we got used to it quickly. The first impression was shock at  how 'Americanized' the place felt, from the massive cars, road signs to the advertisements everywhere. A short _collectivo_ ride to the hotel where the wedding was going to take place later, we  found ourselves with a cocktail in our hands and with sand between our toes.
 
 The resort was beautiful, and by far the most comfortable we will be for a long time, although this type of holidays would not be our preference. A few days passed with very little to do, as unfortunately we had to cancel some plans for excursions out of the hotel... so Chitzen Itza will have to wait until next time. 
@@ -23,9 +24,26 @@ By golf cart, ferry, taxi, bus and plane we made it safe and sound to La Habana 
 
 <b>POLSKI</b>
 
+Po dziesięciogodzinnym locie z Manchesteru w końcu dotarliśmy do Meksyku, pierwszego przystanku naszej podróży gdzie kilka dni później miałam zaszczyt pobrać Gabi i Paulo na przepięknej plaży niedaleko Xpu Ha.
+
+Lecieliśmy nad kanadyjską Nowofunlandią kierując się na południe by potem przelecieć nad Florydą i wylądować w Cancun - a tam powitało nas tak dłuuugo oczekiwane słońce! ...które na początku trochę dało nam trochę popalić i ciężko było znieść zabójcze połączenie ciepła i wilgoci, ale dość szybko się przyzwyczailiśmy.
+Pierwsze wrażenie to szok jak bardzo wielkie ciężarówki, bilbordy, znaki drogowe i generalnie wszystko wielkie i szybkie przypominały Stany Zjednoczone. 
+Szybki przejazd _collectivo_ (kilka nieznajomych osób które jadą w tym samym kierunku dogaduje się aby wynająć taxi - czasem wychodzi taniej niż bus) i znaleźliśmy się w hotelu gdzie kilka dni poźniej miało odbyć się wesele. Po tak długiej podróży bardzo szybko znaleźliśmy się w na plaży z drinkiem w ręku i piaskiem pod stopami. Odpoczynek...
+
+Pięciogwiazdkowy Hotel Barceló Maya, w pobliżu którego odbywało się wesele był niesamowity i baaardzo luksusowy, ale obydwoje wtórem uznaliśmy, że pobyt w takim miejscu to zdecydowanie nie nasz typ wakacji. Tam minęło nam słodkich i leniwych kilka dni. Z różnych powodów musieliśmy niestety odwołać kilka wycieczek - Chitzen Itza będzie musiało na nas poczekać do następnego razu w Meksyku. 
+
+I wtedy nadszedł wielki dzień... główny powód dla którego znaleźliśmy się w Meksyku i zapalnik do naszej wielkiej podróży którą sobie wymarzyliśmy - ślub Gabi i Paulo. Miałam specjalną rolę, ponieważ Gabi i Paulo poprosili mnie abym to ja ich pobrała! Kilka dni przed ceremonią spędziłam zatem zabawiając jaszczurki wszelkiej maści, warany, ptaki i nawet malutką kapibarę popisowymi próbami ostatecznymi. Gabi and Paulo, big love <3 Wielkie dzięki też Janie i Douglasowi którzy pomogli mi z wersją portgualską. _Muito obrigado_!
+
+Kilka dni po ślubie dołączyliśmy do Gabi i Paulo w ich podróży poślubnej. Pierwszy przystanek: przepiękna Isla Holbox na zachód od Cancun. Isla Holbox to wyspa i jednocześnie naturalny rezerwat przyrodniczy z niezwykłą fauną i florą gdzie samochody są zakazane (z kilkoma wyjątkami). Jedyne opcje transportu na Isla Holbox to zatem rower lub gokarty golfowe - i trzeba się na nich nieźle trzymać, bo droga jest pełna kamieni i dziur a kierowcy idą na całość z gazem! Holbox było bardzo przyjemną zmianą ze sterylnego hotelu... do momentu kiedy nie znaleźliśmy skorpiona w sypialni. Na szczęście była to ostatnia noc i po przetrzepaniu wszystkiego mieliśmy pewność, że nie zabieramy ze sobą żadnego pasażera na gapę :) 
+
+Podczas pobytu na Holbox odwiedziliśmy pobliskie niezaludnione wyspy. Jedna z nich to naturalny dom dla wielu gatunków ptaków takich jak pelikany czy flamingi. Obserwowaliśmy z daleka i bez wysiadania z łódki - bardzo cieszymy się, że ochrona natury jest tu ważniejsza niż turystyka. W drodze na wyspy zostaliśmy powitani przez trzy zaciekawione delfiny, które pływały wkoło nas zachowując bezpieczną odległość.
+
+Niedługo później gokartem, potem promem, potem taksówką, potem busem i jeszcze na końcu samolotem bezpiecznie dotarliśmy do drugiego przystanku - Kuby... ale to już historia na następny raz.
+
 ![The rules are meant to be broken](/assets/images/posts/mexico/12.jpg)
 
 <b>DEUTSCH</b>
+
 Nach unserem 10 Stunden Flug von Manchester sind wir endlich in Mexiko angekommen, für den ersten Teil unserer langen Reise und um unsere Freunde an einem wunderschönen Strand in der Nähe von Xpu Ha zu verheiraten.
 
 Der Flug führte uns über Neufundland und die Florida Keys nach Cancun, wo wir von dem lange erwarteten Sonnenschein begrüßt worden sind. Die Hitze war zuerst fast unerträglich, aber wir haben uns schnell daran gewöhnt. Unser erster Eindruck war Schock darüber, wie 'Amerikanisiert' es sich hier anfühlte, von den gigantischen Autos und Straßenschildern zu den enormen Werbeplakaten an jeder Ecke. Einen kurzen Trip mit einem _Collectivo_ zum Hotel später, wo in einigen Tagen die Hochzeit stattfinden sollte, fanden wir uns schon mit einem Cocktail in der Hand und Sand zwischen unseren Zehen wieder.
