@@ -2,7 +2,7 @@
 layout: post
 bg: "5.jpg"
 title:  Bogota
-date:   2019-05-10 10:50:10 
+date:   2019-05-14 10:50:10 
 categories: jekyll photo-gallery
 ---
 
