@@ -191,3 +191,85 @@ photos:
     img: "28"
     country: Mexico
     album: mexico
+
+# Cuba
+  - title: Classy vintage car in Trinidad
+    img: "2"
+    country: Cuba
+    album: cuba
+  - title: Carribean feels
+    img: "4"
+    country: Cuba
+    album: cuba
+  - title: Historic center of Trinidad
+    img: "5"
+    country: Cuba
+    album: cuba
+  - title: Badass vintage car
+    img: "6"
+    country: Cuba
+    album: cuba
+  - title: Cigars after long day
+    img: "8"
+    country: Cuba
+    album: cuba
+  - title: Early morning hike to the bus station
+    img: "9"
+    country: Cuba
+    album: cuba
+  - title: Notice the curious absence of a seat belt
+    img: "10"
+    country: Cuba
+    album: cuba
+  - title: Perfect symmetry
+    img: "13"
+    country: Cuba
+    album: cuba
+  - title: Monument symbolizing the derailing of the train in Santa Clara
+    img: "14"
+    country: Cuba
+    album: cuba
+  - title: Che with child
+    img: "15"
+    country: Cuba
+    album: cuba
+  - title: Santa Clara theater
+    img: "17"
+    country: Cuba
+    album: cuba
+  - title: Living neighborhood in Santa Clara
+    img: "18"
+    country: Cuba
+    album: cuba
+  - title: Rooftop breakfast dance
+    img: "20"
+    country: Cuba
+    album: cuba
+  - title: Local WiFi hotspot
+    img: "21"
+    country: Cuba
+    album: cuba
+  - title: Cold war artifacts in the Museo de la Revolución
+    img: "23"
+    country: Cuba
+    album: cuba
+  - title: Havana cars
+    img: "24"
+    country: Cuba
+    album: cuba
+  - title: Havana cats
+    img: "25"
+    country: Cuba
+    album: cuba
+  - title: Havana streets
+    img: "26"
+    country: Cuba
+    album: cuba
+  - title: Havana football kids
+    img: "27"
+    country: Cuba
+    album: cuba
+  - title: Our ride to the airport
+    img: "28"
+    country: Cuba
+    album: cuba
