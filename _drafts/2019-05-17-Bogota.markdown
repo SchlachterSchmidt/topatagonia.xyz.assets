@@ -2,7 +2,7 @@
 layout: post
 bg: "bogota.jpg"
 title:  Bogota and Cartagena
-date:   2019-05-14 10:50:10 
+date:   2019-05-17 10:50:10 
 categories: jekyll photo-gallery
 ---
 
