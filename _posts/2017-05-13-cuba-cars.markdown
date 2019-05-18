@@ -1,0 +1,12 @@
+---
+layout: post
+bg: "cuba-cars.jpg"
+title:  Cuba cars
+date:   2019-05-14 10:50:10 
+categories: jekyll photo-gallery
+---
+
+No text, just a gallery of beautiful cuban cars<br><br>
+
+
+{% includeGallery cuba-cars%}
