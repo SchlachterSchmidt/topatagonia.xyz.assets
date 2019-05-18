@@ -427,71 +427,59 @@ photos:
     country: Cuba
     album: cuba-cars
 # Bogota Cartagena
-  - title: asd
+  - title: Exotic fruit
     img: "1"
     country: Colombia
     album: bogota-cartagena
-  - title: asd
+  - title: Stunning sunset over Bogota
     img: "2"
     country: Colombia
     album: bogota-cartagena
-  - title: asd
+  - title: Just one pic was not enough
     img: "3"
     country: Colombia
     album: bogota-cartagena
-  - title: dsa
+  - title: This is fine
     img: "4"
     country: Colombia
     album: bogota-cartagena
-  - title: asd
-    img: "5"
-    country: Colombia
-    album: bogota-cartagena
-  - title: dsa
+  - title: Bogota cityscape
     img: "6"
     country: Colombia
     album: bogota-cartagena
-  - title: asd
+  - title: Bogota cityscape
     img: "7"
     country: Colombia
     album: bogota-cartagena
-  - title: asd
+  - title: Bogota cityscape
     img: "8"
     country: Colombia
     album: bogota-cartagena
-  - title: dsa
-    img: "9"
-    country: Colombia
-    album: bogota-cartagena
-  - title: 1dsa
+  - title: Prehispanic treasures
     img: "10"
     country: Colombia
     album: bogota-cartagena
-  - title: 1asd
-    img: "11"
-    country: Colombia
-    album: bogota-cartagena
-  - title: 1dsa
+  - title: Bogota logo
     img: "12"
     country: Colombia
     album: bogota-cartagena
-  - title: 1asd
+  - title: Downtown
     img: "13"
     country: Colombia
     album: bogota-cartagena
-  - title: 1dsadsa
+  - title: Hindu celebration in Cartagena...
     img: "14"
     country: Colombia
     album: bogota-cartagena
-  - title: 1dsa
+  - title: ... to get some vegetarian food
     img: "15"
     country: Colombia
     album: bogota-cartagena
-  - title: 1sdad
+  - title: Cuba throwback
     img: "16"
     country: Colombia
     album: bogota-cartagena
-  - title: 1asda
+  - title: Colombia proud
     img: "17"
     country: Colombia
     album: bogota-cartagena
