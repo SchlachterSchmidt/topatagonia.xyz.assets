@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "5.jpg"
+bg: "bogota.jpg"
 title:  Bogota and Cartagena
 date:   2019-05-14 10:50:10 
 categories: jekyll photo-gallery
@@ -40,3 +40,5 @@ Die prähispanischen Eingeborenen wie die Muiscas lebten im Bacatá-Tal (von dem
 Einen Tag berichteten wir Monserrate, eine Abtei auf dem Gipfel eines nahe gelegenen Berges (Bogotá beginnt direkt am Fuße dieses Berges), auf fast 3200 Metern höhe, wo wir einen atemberaubenden Sonnenuntergang bewundern konnten.
 
 Unser nächster Stop war über 1000 Kilometer entfernt. Im Bus hätte es 24 Stunden gedauert, und da ein Flug genau so viel kostete, haben wir uns entschieden zu fliegen. Über die nördlichen Anden hinweg zur kolonialen Stadt Kartagena. Wir blieben nur einige wenige Tage um die historische, befestigte Stadt zu bewundern, die ein UNESCO Weltkulturerbe ist, und für sich beansprucht, die schönste in der Karibik zu sein. Doch, nach Bogotá und jetzt Kartagena standen uns die Sinne nach Zeit weit weg von großen Städten, und so machten wir uns auf nach Guatapé, einem winzigen Ort westlich von Medellín. Fliegen stellte sich wieder als günstiger heraus, und los gings.. 
+
+{% includeGallery bogota-cartagena%}
