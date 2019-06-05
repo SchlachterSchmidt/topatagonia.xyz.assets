@@ -18,6 +18,16 @@ We spent almost a week in San Agustin, mostly relaxing and preparing for the lon
 
 <b>POLSKI</b>
 
+Naturalny rezerwat przyrodniczy w doliny Cocora był głównym powodem, dla którego przyjechaliśmy do Salento a mimo to znaleźliśmy wiele innych powodów, aby pokochać to miejsce.<br><br>
+
+Na początku planowaliśmy dwudniową wycieczkę do olbrzymiego parku przyrodniczego Los Nevados, ale ze względu na zbyt dużą wysokość, wielki dystans, który musielibyśmy pokonać no i konieczność wykupienia przewodnika zrezygnowaliśmy i wybraliśmy się jedynie do doliny Cocora, która znajduje się u podnóża parku Los Nevados. Tak więc po (dosłownie) zeskoczeniu z tyłu jeepa, który podwiózł nas do początku szlaku po kilku godzinach wspinaczki, przekraczania rzek i mostów wiszących znaleźliśmy się w lesie mglistym (nazwa pochodzi od tego, że ze względu na wysokość ok. 3000 mnpm las ten przeważnie pokryty jest chmurami). Tam zrobiliśmy przystanek w Sanktuarium Kolibrów (dzikich! <3), które było najwyższym punktem we wspinaczce i gdyby nie chmury, widok na całą dolinę byłby zapewne niesamowity. Dolina jest pełna palm woskowych, które rosną do 60m (!) w górę i jako symbol Kolumbii są pod całkowitą ochroną. Kary za wycięcie takiej palmy są tak olbrzymie, że nawet jeśli wyrośnie ona na środku ziemi uprawnej nie warto jej ruszać!
+
+Salento leży też w sercu zony uprawy kawy zwanej Zona Cafetera, gdzie wzgórza są pełne farm (hiszp. _fincas_) trudniących się produkcją kawy. Odwiedziliśmy jedną nich i nauczyliśmy się bardzo dużo na temat tego jak wygląda ekologiczny proces uprawy, od zasiania ziaren aż po pakowanie i eksport. Na wzgórza Zony Cafetera przyjechaliśmy rowerami - odświeżający, kilkunastokilometrowy zjazd w dół... Dlatego też powrót... Powrót był koszmarem - chyba nigdy w życiu tak się nie spociliśmy... Zdecydowanie natrudniejsza wycieczka rowerowa w życiu! 
+
+Salento bardzo nam się podobało a po kilku dniach wyruszliśmy na południe do San Agustin - znane archeologiczne stanowisko pełne kamiennych rzeźb z czasów cywilizacji sprzed hiszpańskiego najazdu. Stanowisko to znajduje się na liście zabytków Unesco. Małe muzeum przed wejściem na uzupełniło naszą wiedzę na temat stanowiska i historii. Te stare, kamienne rzeźby znajdują się nie tylko w parku - z uważnym okiem można się na nie natknąć w kilku miejscach - w wioskach, lasach i też na zboczach doliny w pobliżu rzeki Magdalena.
+
+San Agustin był jednym z ostatnich przystanków w Kolumbii, ostatnich kilka dni odpoczywaliśmy przygotowywując się na dłuuugą podróż... przekraczamy granicę z Ekwadorem lądowo. Ale o tym póżniej... :)
+
 <b>DEUTSCH</b>
 
 Ein Besuch im beeindruckenden Naturschutzgebiet im Cocora Tal war der Grund, aus dem wir nach Salento gekommen sind, doch wir fanden noch viel, viel mehr.
