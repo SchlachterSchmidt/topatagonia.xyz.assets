@@ -19,3 +19,13 @@ We spent almost a week in San Agustin, mostly relaxing and preparing for the lon
 <b>POLSKI</b>
 
 <b>DEUTSCH</b>
+
+Ein Besuch im beeindruckenden Naturschutzgebiet im Cocora Tal war der Grund, aus dem wir nach Salento gekommen sind, doch wir fanden noch viel, viel mehr.
+
+Zuerst planten wir eine zweitägige Exkursion in den nahe gelegenen Nationalpark Los Nevados, doch die Höhe, lange Distanzen, und die Pflicht, einen Führer haben zu müssen, hat und davon abgebracht, und wir haben stattdessen nur das Cocora Tal, an den Ausläufern des Nationalparks erkundet. Eine aufregende Fahrt mit dem Jeep, und wir fanden uns schon mitten im Nebelwald, dabei, Bäche auf wackligen Brücken zu überqueren, entlang Flüssen zu waten und uns wie Entdecker zu fühlen. Im Tal hielten wir an einem Kolibrigarten, und stiegen dann auf zum höchsten Punk im Tal, von wo aus wir eine Fantastische sicht über das Tal gehabt hätten, wenn die dicken Wolken nicht gewesen wären. Das Tal ist berühmt für die Wachspalmen, der geschützte Nationalbaum Kolumbiens, der bis zu 60 Meter hochwachsen kann.
+
+Die Stadt Salento liegt im Herzen der Zona Cafetera, mit vielen Fincas über die nahe liegenden Hügel verteilt, die erstklassigen Kaffee produzieren. Eine Führung über eine dieser Farmen lehrte uns viel über ökologische Kaffeeproduktion. Wir versuchten uns außerdem an einer Fahrradtour, doch erst nach einem schnellen, spaßigem Abstieg in das Tal wurde uns bewusst, dass uns eine lange und schwierige Fahrt hinauf erwartete. Der Weg hinauf war definitiv weniger spaßig als der Weg runter...
+
+Wir genossen unsere Zeit in Salento sehr, und nach einigen Tagen ging es weiter nach San Agustin, bekannt für den archäologischen Park mit Steinstatuen aus vorspanischer Zeit. Ein kleines Museum am Eingang über die örtliche Kultur, die diese Statuen produziert hat, gab uns wertvolle Informationen für den Besuch der Ausgrabungsstätten, und einige Steinreliefs können noch immer in der umliegenden Landschaft, die den Magdalena Fluss überblickt, gefunden werden. 
+
+Wir verbrachten fast eine Woche in San Agustin, mit entspannen und damit, uns auf die lange Busfahrt nach Ecuador und die Stadt Otavalo vorzubereiten.
