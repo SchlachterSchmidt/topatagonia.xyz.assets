@@ -1,8 +1,8 @@
 ---
 layout: post
 bg: "5.jpg"
-title: Salento and San Augustin
-date:   2019-05-22 10:50:10 
+title: Otavalo
+date:   2019-06-10 10:50:10 
 categories: jekyll photo-gallery
 ---
 
