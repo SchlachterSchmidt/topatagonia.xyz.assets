@@ -483,3 +483,69 @@ photos:
     img: "17"
     country: Colombia
     album: bogota-cartagena
+
+# Salento San Agustin
+  - title: Waterfall in Salento
+    img: "6"
+    country: Colombia
+    album: cocora
+  - title: Nur der SVW
+    img: "7"
+    country: Colombia
+    album: cocora
+  - title: In the jungle
+    img: "8"
+    country: Colombia
+    album: cocora
+  - title: Biking tour in la cafetera
+    img: "9"
+    country: Colombia
+    album: cocora
+  - title: Wobbly bridge in Cocora
+    img: "10"
+    country: Colombia
+    album: cocora
+  - title: 3000 meters above the sea!
+    img: "11"
+    country: Colombia
+    album: cocora
+  - title: Hi buddy! Hummingbirds <3
+    img: "12"
+    country: Colombia
+    album: cocora
+  - title: Cloud horses
+    img: "13"
+    country: Colombia
+    album: cocora
+  - title: How tall are those... Humans for scale
+    img: "14"
+    country: Colombia
+    album: cocora
+  - title: Wax palm trees
+    img: "15"
+    country: Colombia
+    album: cocora
+  - title: Hold on for your life
+    img: "16"
+    country: Colombia
+    album: cocora
+  - title: Colombia had better coffee pickers :P
+    img: "17"
+    country: Colombia
+    album: cocora
+  - title: Gotta love hammock chill time... San Agustin
+    img: "18"
+    country: Colombia
+    album: cocora
+  - title: Prehispanic carving found in the middle of nowhere
+    img: "19"
+    country: Colombia
+    album: cocora
+  - title:  ...and one more
+    img: "20"
+    country: Colombia
+    album: cocora
+  - title: Hi Ecuador!!!
+    img: "21"
+    country: Colombia
+    album: cocora
