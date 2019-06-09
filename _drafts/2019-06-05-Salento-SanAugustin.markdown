@@ -50,3 +50,4 @@ Wir genossen unsere Zeit in Salento sehr, und nach einigen Tagen ging es weiter 
 
 Wir verbrachten fast eine Woche in San Agustin, mit entspannen und damit, uns auf die lange Busfahrt nach Ecuador und die Stadt Otavalo vorzubereiten.
 
+{% includeGallery cocora%}
