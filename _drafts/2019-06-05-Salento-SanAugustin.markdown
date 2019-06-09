@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "5.jpg"
+bg: "0.jpg"
 title: Cocora Valley adventures, and prehispanic culture 
 date:   2019-06-05 10:50:10 
 categories: jekyll photo-gallery
