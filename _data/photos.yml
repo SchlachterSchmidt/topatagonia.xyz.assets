@@ -545,7 +545,11 @@ photos:
     img: "20"
     country: Colombia
     album: cocora
-  - title: Hi Ecuador!!!
+  - title: As scary as breathtaking
     img: "21"
+    country: Colombia
+    album: cocora
+  - title: Hi Ecuador!!!
+    img: "22"
     country: Colombia
     album: cocora
