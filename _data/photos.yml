@@ -553,3 +553,37 @@ photos:
     img: "22"
     country: Colombia
     album: cocora
+
+# Otavalo, Ecuador
+  - title: Cotacachi peak
+    img: "5"
+    country: Ecuador
+    album: otavalo
+  - title: Guinea Pig lake
+    img: "6"
+    country: Ecuador
+    album: otavalo
+  - title: Hikes through mountains!
+    img: "7"
+    country: Ecuador
+    album: otavalo
+  - title: Peguche waterfall being a waterfall
+    img: "10"
+    country: Ecuador
+    album: otavalo
+  - title: Equator! Równik! Äquator!
+    img: "11"
+    country: Ecuador
+    album: otavalo
+  - title: Injured Andean condors recovering - they're massive!
+    img: "8"
+    country: Ecuador
+    album: otavalo
+  - title: Volcano avenue
+    img: "3"
+    country: Ecuador
+    album: otavalo
+  - title: Otavalo main square
+    img: "1"
+    country: Ecuador
+    album: otavalo

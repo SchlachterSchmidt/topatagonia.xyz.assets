@@ -9,27 +9,40 @@ categories: jekyll photo-gallery
 Ecuador, at last. <br><br>
 
 Crossing the border into Ecuador was largely uneventful, except for the staggering amount of Venezuelans leaving their home country. We've spoken to a few Venezuelans over the past few weeks, but here at the border the scale of the humanitarian crisis became very apparent. Separate queues for Venezuelan refugees, Red Cross tents, and medical aid stations were just some of the heartbreaking sights.
-![Main square](/assets/images/posts/otavalo/1.jpg)
 
 We continued on to Otavalo, home to the largest indigenous community in Ecuador, where people dressed in the traditional style are a common sight. Otavalo lies at the foot of two volcanoes, Imbabura and Cotacachi, and close to the Laguna de Cuicocha (Guinea Pig Lake). We didn't scale any mountains but hiked around the lake, visited the nearby Peguche waterfall and Condor sanctuary with many species of birds of prey rescued from all over south america. The most impressive sight though was the sacred El Lechero tree, which legend says is 1000 years old. Ritual offerings of corn, fruit, beans and even guinea pigs are laid around the tree during rituals of harvest, marriage, birth and death. 
 ![street art](/assets/images/posts/otavalo/2.jpg)
 Otavalo has a special atmosphere, where traditions and family are extremely important, and the time we spent here was a great way to experience ecuadorian culture before moving on to the metropolitan capital Quito.
-![Volcano Avenue](/assets/images/posts/otavalo/3.jpg)
+
+ ...oh BTW - we also crossed the equator!
+ 
 <b>POLSKI</b>
 
+Ekwador, w końcu!
+
+Przekroczenie granicy lądowej nie było trudne gdyby nie wliczyć tego, że z potężnym smutkiem obserwowaliśmy na granicy setki Wenezuelańczyków uciekających ze swojego kraju. W ciągu ostatnich kilku tygodni mieliśmy okazję porozmawiać z kilkoma z nich, ale to dopiero tutaj, na granicy Kolumbii i Ekwadoru, zdaliśmy sobie sprawę z porażającego kryzysu którym są dotknięci. Wenezuelańczycy mieli osobne kolejki, specjalne namioty Czerwonego Krzyża i pomocy medycznej.
+
+Po zdobyciu pieczątki kontynuowaliśmy do Otavalo - największego skupiska ludności rdzennej w Ekwadorze. Otavalo leży u stóp wulkanów Imbabura i Cotacachi oraz w pobliżu Laguna de Cuicocha (Jezioro Świnek Morskich - które zresztą obeszliśmy wkoło!). Oprócz tego widzieliśmy wodospad Peguche i Sanktuarium Kondorów, gdzie znajduje schronienie wiele gatunków ptaków drapieżnych Ameryki Południowej. Najbardziej imponującym (czy strasznym?) miejscem było jednak drzewo El Lechero, które według legendy ma blisko tysiąc lat, a u jego stóp składane są ofiary w postaci kukurydzy, owoców, fasoli a nawet świnek morskich. Rytuał ten odbywa się podczas zbioru plonów, ślubów, narodzin i śmierci mieszkańców pobliskich wiosek.
+
 ![Freedom bandana in the wind](/assets/images/posts/otavalo/4.jpg)
-![Cotacachi peak](/assets/images/posts/otavalo/5.jpg)
-![Guinea Pig lake](/assets/images/posts/otavalo/6.jpg)
+
+Otavalo niesie ze sobą oryginalną atmosferę, w której tradycja i rodzina są najważniejszym elementem życia. Czas, który tu spędziliśmy pokazał nam codzienne życie rdzennych Ekwadoriańczyków. Zdecydowaliśmy się, że następnym przystankiem będzie stolica - olbrzymie Quito.
+
+P.S. przekroczyliśmy też równik!
+
 <b>DEUTSCH</b>
 
 Endlich Ecuador.
 
-![Hi](/assets/images/posts/otavalo/7.jpg)
-![Large chickens](/assets/images/posts/otavalo/8.jpg)
-
 Die Grenzüberquerung nach Ecuador war größtenteils wenig ereignisreich, abgesehen von der Anzahl Venezolaner, die ihr Heimatland verlassen. In den vergangenen Wochen haben wir oft mit Venezolanern gesprochen, doch erst hier an der Grenze wurde uns das Ausmaß der humanitären Krise klar. Separate Abfertigungen für Venezolaner, Zelte des Roten Kreuzes, und Stationen für medizinische Versorgung waren nur einige der herzzerreißenden Anblicke.
+
 ![The sacred el lechero tree](/assets/images/posts/otavalo/9.jpg)
+
 Wir reisten weiter nach Otavalo, der Heimat der größten Gemeinde ecuadorianischer Ureinwohner, wo Menschen in traditioneller Kleidung häufig anzutreffen sind. Otavalo liegt am Fuße zweier Vulkane, Imababura und Cotocachi, und nahe der Laguna de Cuicocha (Meerschweinchensee). Wir bestiegen keine Berge, doch wanderten um den See, zum nahe gelegenen Peguche Wasserfall, und besuchten die Condor-Auffangstation, wo viele Arten von Raubvögeln aus ganz Südamerika Zuflucht gefunden haben. Am beeindruckendsten war jedoch der heilige El Lechero Baum, der einer Legende zufolge 1000 Jahre alt ist. Rituelle Gaben wie Mais, Früchte, Bohnen und Meerschweinchen werden zu Gelegenheiten wie Ernte, Geburt, Heirat und Tod um den Baum herum dargelegt.
-![Water falling](/assets/images/posts/otavalo/10.jpg)
+
  Otavalo hat eine besondere Atmosphäre, wo Tradition und Familie sehr wichtig sind, und die Zeit hier war ein großartiger Einstieg in die Kultur Ecuadors, bevor es uns weiterzog in die Metropole Quito.
- ![The precise moment we crossed the equatorje](/assets/images/posts/otavalo/11.jpg)
+ 
+ ...oh, und wir haben den Äquator überquert!
+  
+
+{% includeGallery otavalo%}
