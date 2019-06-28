@@ -1,8 +1,8 @@
 ---
 layout: post
-bg: "5.jpg"
+bg: "quito.jpg"
 title: Quito
-date:   2019-06-10 10:50:10 
+date:   2019-06-15 10:50:10 
 categories: jekyll photo-gallery
 ---
 
@@ -17,8 +17,11 @@ The highlight was definitely TeleferiQo - a cable car that brings you up to over
 
 We went full on turist mode in Quito and for the first time in South America we actually hopped on on a tourist bus - there was just too much we wanted to see!
 
+An hour off Quito centre there is Mitad del Mundo - a line that marks the half of the globe. So that day we ate our lunch on the equator!
+
 And that was it for our city adventures - time to hit the road again. Direction: South. This time volcanoes, hikes, lagunas and wild nature calling us.
 
+![Quito](/assets/images/posts/quito/1.jpg)
 
 <b>POLSKI</b>
 Dość szybki przejazd busem i oto jesteśmy w Quito - stolicy Ekwadoru, która zarazem jest najwyżej położoną stolicą na świecie i znajduje się na wysokości 2850mnpm.
@@ -33,6 +36,8 @@ Quito zwiedzaliśmy jako turyści w pełnej krasie - po raz piewszy w Ameryce Po
 
 Po Quito nadszedł znów koniec naszych przygód miejskich. Czas wyruszyć na południe. Tym razem chodzenie po górach, wulkanach, jeziora kraterowe i dzika natura... 
 
+![Quito](/assets/images/posts/quito/2.jpg)
+
 <b>DEUTSCH</b>
 
 Eine kurze Busfahrt Richtung Süden brachte uns nach Quito. Auf 2850 Meter über dem Meeresspiegel gelegen, Quito ist die höchste (offizielle) Hauptstadt der Welt. 
@@ -43,4 +48,8 @@ Das Highlight war definitiv der TeleferiQo - eine Seilbahn die Fahrgäste bis au
 
 Wir haben zum ersten Mal in Südamerika die Touristen raushängen lassen und einen Tourbus bestiegen, die Stadt ist sonst einfach zu groß und hat zu viele Sehenswürdigkeiten!
 
+Eine Stunde von Quit entfernt ist Mitad del Mundo - die linie die den Erdball in zwei Hälften teilt. Und so haben wir an diesem Tag auf dme Äquator yu Mittag gegessen!
+
 Und das war's auch schon wieder mit unseren Stadtabenteuern - Es war wieder an der Zeit den Straßen Richtung Süden zu folgen. Dieses Mal für mehr Vulkane, Wanderungen, Seen - dem Ruf der Wildnis zu folgen.
+
+{% includeGallery quito%}

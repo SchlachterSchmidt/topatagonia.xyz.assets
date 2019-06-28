@@ -587,3 +587,69 @@ photos:
     img: "1"
     country: Ecuador
     album: otavalo
+
+# Quito, Ecuador
+  - title: Lunch on the equator!
+    img: "3"
+    country: Ecuador
+    album: quito
+  - title: Basilica del Voto National
+    img: "4"
+    country: Ecuador
+    album: quito
+  - title: Virgen de El Panecillo
+    img: "5"
+    country: Ecuador
+    album: quito
+  - title: Quito town 1
+    img: "6"
+    country: Ecuador
+    album: quito
+  - title: Phil the Tourist
+    img: "7"
+    country: Ecuador
+    album: quito
+  - title: Quito town 2
+    img: "8"
+    country: Ecuador
+    album: quito
+  - title: Quito town 3
+    img: "9"
+    country: Ecuador
+    album: quito
+  - title: Quito town 4
+    img: "10"
+    country: Ecuador
+    album: quito
+  - title: Quito town 5
+    img: "11"
+    country: Ecuador
+    album: quito
+  - title: Quito town 6
+    img: "12"
+    country: Ecuador
+    album: quito
+  - title: Modern Quito
+    img: "13"
+    country: Ecuador
+    album: quito
+  - title: Like from a movie
+    img: "14"
+    country: Ecuador
+    album: quito
+  - title: Work, work, work!
+    img: "15"
+    country: Ecuador
+    album: quito
+  - title: TeleferiQo views at 4100m!
+    img: "16"
+    country: Ecuador
+    album: quito
+  - title: Quito from 4100m
+    img: "17"
+    country: Ecuador
+    album: quito
+  - title: Path to heaven <3
+    img: "18"
+    country: Ecuador
+    album: quito
