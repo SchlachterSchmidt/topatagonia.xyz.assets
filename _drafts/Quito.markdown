@@ -9,9 +9,9 @@ categories: jekyll photo-gallery
 A quick bus ride down south and we're in Quito. Located at 2850 metre over the sea level it's the highest (official) capital city in the world.
 <br><br>
 
-We stayed in a hostel where included in a price we had access to co-working space, so the first few days we used to catch up on our projects. 
+We stayed in a hostel where included in the price we had access to a  co-working space, so the first few days we used to catch up on our projects. 
 
-Quito is a really vibrant city, similarly to Bogota in Colombia it's very international and parts of it feel very European. It's a very large city with an interesting shape - it's 50 km long and only 6 km wide. It makes the bus rides very long.
+Quito is a really vibrant city, similarly to Bogota in Colombia it's very international and parts of it feel very European. It's a very large city with an interesting shape - it's 50 km long and only 6 km wide, which makes for very long bus rides.
 
 The highlight was definitely TeleferiQo - a cable car that brings you up to over 4100m from where you can do some hiking (if you're acclimatised that is!) and swing over the city. 
 
@@ -34,3 +34,13 @@ Quito zwiedzaliśmy jako turyści w pełnej krasie - po raz piewszy w Ameryce Po
 Po Quito nadszedł znów koniec naszych przygód miejskich. Czas wyruszyć na południe. Tym razem chodzenie po górach, wulkanach, jeziora kraterowe i dzika natura... 
 
 <b>DEUTSCH</b>
+
+Eine kurze Busfahrt Richtung Süden brachte uns nach Quito. Auf 2850 Meter über dem Meeresspiegel gelegen, Quito ist die höchste (offizielle) Hauptstadt der Welt. 
+
+Quito ist eine lebhafte Stadt, ähnlich zu Bogota in Kolumbien geht es sehr international zu, und teile der Stadt fühlen sich sehr europäisch an. Die Stadt hat eine ungewöhnliche Form - 50 Kilometer lang, aber nur 6 Kilometer breit, was extrem lange Busfahrten zur Folge hat.
+
+Das Highlight war definitiv der TeleferiQo - eine Seilbahn die Fahrgäste bis auf 4100 Meter bringt, und von wo man (wenn man denn an die Höhe gewöhnt ist) Wandern oder einfach über die Stadt Schaukeln kann.
+
+Wir haben zum ersten Mal in Südamerika die Touristen raushängen lassen und einen Tourbus bestiegen, die Stadt ist sonst einfach zu groß und hat zu viele Sehenswürdigkeiten!
+
+Und das war's auch schon wieder mit unseren Stadtabenteuern - Es war wieder an der Zeit den Straßen Richtung Süden zu folgen. Dieses Mal für mehr Vulkane, Wanderungen, Seen - dem Ruf der Wildnis zu folgen.
