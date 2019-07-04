@@ -1,7 +1,7 @@
 ---
 layout: post
 bg: "5.jpg"
-title: Baños and Isla de la Plata
+title: Reef snorkeling and colonial Cuenca
 date:   2019-06-25 10:50:10 
 categories: jekyll photo-gallery
 ---
