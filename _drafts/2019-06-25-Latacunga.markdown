@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "5.jpg"
+bg: "latachunga.jpg"
 title: Hot springs in the Volcano-Avenue
 date:   2019-07-02 10:50:10 
 categories: jekyll photo-gallery
@@ -47,3 +47,5 @@ Nachdem wir uns erholt hatten, brachen wir zu einer Drei-tägigen Wanderung auf 
 Nach so viel sportlicher Betätigung war es an der Zeit im nahegelegen Baños zu entspannen, welches berühmt ist für heiße Quellen. Wir belohnten uns außerdem mit einem Besuch in einem Spa, ließen aber alle Abenteuerexkursionen links liegen. Baños ist eine wunderbare Kleinstadt, und wir verbrachten einige wunderbare Tage in einem der bisher besten Hostels, unsere Gastgeber Freddy und Dario machten unseren Aufenthalt noch besonderer.
 
 Und dann die Zeit kam um nach Puerto Lopez aufzubrechen, für ein Outdoor-Abenteur einer ganz anderen Art.. 
+
+{% includeGallery latachunga%}
