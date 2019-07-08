@@ -22,6 +22,18 @@ When the time to depart came, we set course to Puerto Lopez, for an outdoor adve
 
 <b>POLSKI</b>
 
+Zarówno pobliża Latacungi jak i Baños to dwa obszary, które mają w sobie wiele uroku, ale z dwóch zupełnie różnych powodów.
+
+Po gonitwie w wielkim Quito potrzebowaliśmy natury. Kierunek: Latacunga. Miejsce w samym centrum tzw. Alei Wulkanów - drogi otoczonej z lewa i prawa wulkanami, niektóre z nich sięgające do zawrotnych wysokości 6000 mnpm. Pomimo tego, że spędziliśmy tu tydzień ze względu na chmury niestety nie udało nam się zobaczyć pełnego szczytu Cotopaxi, drugiego najwyższego szczytu w Ekwadorze.
+
+Zdecydowaliśmy się zatem, że skoro nie od dołu... no to od góry! Razem z przewodnikiem wspięliśmy się na 5000 mnpm, aż pod czapę lodowca Cotopaxi gdzie w najwyżej położonym schronisku wypiliśmy herbatę z liści koki (pomaga z rzadszym powietrzem na wysokościach).
+
+Kilka dni później nadal było nam mało - chcemy więcej natury! Na ratunek przyszedł nasz trzydniowy, czterdziestokilometrowy trek który zaprowadził nas do 3800mnpn do jeziora kraterowego Quilotoa. Niestety źle zawiązałam buty i skończyło się wielkimi bąblami na stopach już pierwszego dnia... ale nie poddałam się! I nie żałuję, bo trzeciego dnia szmaragdowe jezioro Quilotoa przywitało nas widokiem, którego nigdy nie zapomnimy. No i także bezdusznym lodowatym wysokogórskim wiatrem :)
+
+Po takiej dawce natury i wysiłku ruszyliśmy do Baños, miasteczka słynnego z gorących źródeł wulkanicznych i parków rozrywki. Pozwoliliśmy sobie na mały luksus w spa natomiast parki rozrywki odpuściliśmy. Baños jest bardzo uroczym miejscem, jak z pocztówek - jedno z naszych ulubionych miejsc do tej pory, co częściowo zawdzięczamy świetnemu hostelowi w którym się zatrzymaliśmy. Właściele Freddy i Dario byli genialni - spędziliśmy razem wiele czasu jak gdybyśmy znali się latami.
+
+Niestety nadszedł czas aby się pożegnać. Czas na Puerto Lopez, wyprawę w naturę... ale tym razem zupełnie innego typu.
+
 <b>DEUTSCH</b>
 
 Sowohl Latachunga als auch Baños haben eine Menge Charme und sehr unterschiedliche Reize.
