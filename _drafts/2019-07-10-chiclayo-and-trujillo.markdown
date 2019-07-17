@@ -20,3 +20,7 @@ Po 13 godzinnej przejażdżce busem dotarliśmy do zanieczyszczonego i OKROPNIE 
 Kolejny przystanek... natura, jeziora, góry i parki narodowe!
 
 <b>DEUTSCH</b>
+
+Nach 13 Stunden im Bus erreichten wir die leider sehr verschmutzte und hektische Stadt Chiclayo, von wo aus wir nach Trujillo weiterzogen. Die meiste Zeit verbrachten wir damit, Museen und archäologische Ausgrabungsstätten zu besichtigen, da die Gegend für Ihre Gräber, Pyramiden und Begräbnisstätten der Mochekultur bekannt ist. Diese Kultur geht zurück sogar noch vor der Zeit der Inkas. 
+
+Nächster Stop - Natur, Seen, Berge und Nationalparks!
