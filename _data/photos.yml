@@ -719,3 +719,88 @@ photos:
     img: "22"
     country: Ecuador
     album: latacunga
+
+# Cuenca and Isla de la Plata, Ecuador
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+  - title:
+    img:
+    country: Ecuador
+    album: cuenca
+
+# Chiclayo and Trujillo, Ecuador
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+  - title:
+    img:
+    country: Ecuador
+    album: chiclayo
+
