@@ -2,7 +2,7 @@
 layout: post
 bg: "cuenca.jpg"
 title: Reef snorkeling and colonial Cuenca
-date:   2019-06-25 10:50:10 
+date:   2019-07-04 10:50:10 
 categories: jekyll photo-gallery
 ---
 
