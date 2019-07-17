@@ -7,6 +7,7 @@ categories: jekyll photo-gallery
 ---
 
 While relaxing in Baños we kept on dreaming of Galapagos... <br><br>
+
   
 It's incredibly expensive (four digits for a few days!) to go there and way beyond our budget so we decided to pass (for now anyway, we plan on coming back, it's our bucket list place!). But us being us we didn't give up on seeing the wonderful fauna of Ecuador's uninhabited islands anyway - we spontaneously decided that we will go to Isla de la Plata which is also called Galapagos for the poor. We swam next to humpack whales, seen incredible amounts of birdlife and then went snorkeling with turtles and fish in the reef. We came back so happy, it was our dream (especially Annette's though!) to snorkel in such a place.
 

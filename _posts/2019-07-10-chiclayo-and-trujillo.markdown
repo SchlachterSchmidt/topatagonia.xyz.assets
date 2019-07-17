@@ -7,6 +7,7 @@ categories: jekyll photo-gallery
 ---
 
 Hi Peru! <br><br>
+
   
 After a 13 hour long bus ride we arrived in polluted and hectic Chiclayo from where we moved to Trujillo. Most of our time in those places we spent visiting museums and archeological sites as the area is well known for tombs, pyramids and burial sites of Moche civilization - that's the one that dates even before the Andean empire of the Incas. Check out the pics!
 
