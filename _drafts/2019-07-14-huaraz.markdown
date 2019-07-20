@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "5.jpg"
+bg: "huaraz.jpg"
 title: Andean hikes in Huascaran National Park
 date:   2019-07-14 10:50:10 
 categories: jekyll photo-gallery
@@ -9,7 +9,9 @@ categories: jekyll photo-gallery
 We're back in nature! <br><br>
 
   
-Short but a very instense stay in the heart of the Andean pampas, glacier lakes and mountain picks. We did two walks. First, to Wilcacocha Lake, which was fairly unspectacular but we managed to get a great weather to see the mountains though. Second, up to Laguna Parón at 4200 metres. This was actually much nicer than we expected. The lagoon looked as if it was just freshly photoshopped in front of your eyes - the blue and green shades of that 75m deep crater lake were out of this world!
+A short but a very instense stay in the heart of the Andean pampas, glacier lakes and mountain peaks. We did two walks. First, to Wilcacocha Lake, which was fairly unspectacular but we managed to get a great weather to see the mountains though. Second, up to Laguna Parón at 4200 metres. This was actually much nicer than we expected. The lagoon looked as if it was just freshly photoshopped in front of your eyes - the blue and green shades of that 75m deep glacier lake were out of this world!
+
+![That view though](/assets/images/posts/huaraz/3.jpg)
 
 Annette should have acclimatized for the altitude a little better but hey... things don't always go as planned! Thankfully we had leftover coca leaves. 
 
@@ -20,8 +22,24 @@ Powrót do natury!
 
 To był krótki, ale bardzo intensywny pobyt w sercu andyjskich szczytów, pamp i jezior lodowcowych. Wybraliśmy się na wędrówkę w dwa miejsca. Pierwsze - jezioro lodowcowe Wilcacocha, małe, brudne i zupełnie niespektakularne, ale dzięki dobrej pogodzie mieliśmy szansę dostrzec szczyty And. Drugie to znana Laguna Parón leżąca na zawrotnej wysokości 4200 mnpm. Muszę przyznać, że to miejsce okazało się nawet piękniesze niż sobie wyobraziliśmy. Laguna wyglądała jak gdyby przed momentem została sfotoszopowana przed naszymi oczami - szmaragdowo błękitna zieleń tej 75-metrowej głębi była niesamowita!
 
+![That view though](/assets/images/posts/huaraz/6.jpg)
+
+
 Niestety nie zaaklimatyzowałam się na tej wysokości zbyt dobrze tym razem, ale cóż... nie zawsze wszystko idzie zgodnie z planem. Na szczęście mieliśmy jeszcze troszkę liści koki z Ekwadoru.
 
 A teraz... spowrotem nad ocean - czas zobaczyć co olbrzyyyymiaaa Lima ma do zaoferowania!
 
 <b>DEUTSCH</b>
+
+Zurück in der Natur!
+
+Ein kurzer aber intensiver Aufenthalt in den Anden, mit Gletscherseen und Berggipfeln, und zwei Wanderungen. Zuerst zum Wilcacochasee, der ziemlich unspektakulär ist, doch bei gutem Wetter fantastische Ausblicke auf Berggipfel bereit hält. Danach zur Laguna Parón auf 4200 Meter, und dieser Ausflug war noch spektakulärer als erwartet. Der See sah aus wie von Photoshop direkt vor den Augen bearbeitet - das Blau und Grün des 75 Meter tiefen Sees sind unbeschreiblich!
+
+![That view though](/assets/images/posts/huaraz/7.jpg)
+
+
+Annette hätte sich besser auf die Höhe vorbereiten sollen, doch es läuft nicht immer alles nach plan. Glücklicherweise hatten wir noch ein paar Kokablätter.
+
+Und nun ... Zurück an die Küste um herauszufinden was Lima zu bieten hat!
+
+{% includeGallery huaraz%}
