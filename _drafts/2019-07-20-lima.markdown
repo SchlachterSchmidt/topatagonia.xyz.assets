@@ -6,7 +6,7 @@ date:   2019-07-20 10:50:10
 categories: jekyll photo-gallery
 ---
 
-A few hours on a bus and we're in Lima.<br><br>
+A few hours on the bus and we're in Lima.<br><br>
 
 
 It's a massive city with 10 million inhabitants, spanning along the coast and surrounded by a desert on the other three sides. The city itself is one of the biggest we've seen yet - nothing is close and you always need to take a bus... That's probably one factor responsible for us not enjoying Lima all that much. Another one would be the weather. It's winter now in Lima and because of it's close proximity to the desert and the sea for the whole duration of the season is stays under a thick layer of clouds with no ray of sunlight to be spotted anywhere. Still, in the ocean, disregarding the weather, you'll find tens (if not hundreds) of surfers waiting for the perfect wave - Lima is a great spot for it all year round. Needless to say... we passed on surfing!
@@ -32,6 +32,13 @@ Po przeciętnej Limie zdecydowaliśmy się zobaczyć co świta w Białym Mieśc
 
 <b>DEUTSCH</b>
 
+Ein paar Stunden im Bus und schon sind wir in Lima.
+
+Lima ist eine gigantische Stadt mit 10 Millionen Einwohnern, die sich an der Küste entlang erstreckt, und von den anderen drei Seiten von Wüste umgeben ist. Die Stadt selbst ist eine der größten, die wir je gesehen haben - nichts ist nahe gelegen, und man ist immer auf Busse angewiesen. Das ist wahrscheinlich einer der Gründe warum wir unsere Zeit in Lima nicht so sehr genossen haben. Ein weiterer Grund war das Wetter. Da es in Lima gerade Winterzeit ist und wegen der nähe zum Wasser, ist die Stadt für die ganze Jahreszeit unter einer dicken Wolkendecke begraben, ohne Sonnenstrahlen in sicht. Nichtsdestotrotz sind trotzdem Dutzende, wenn nicht sogar Hunderte Surfer im Wasser, auf die perfekte Welle wartend - Lima ist ein großartiger Surfspot im ganzen Jahr. Dennoch haben wir es lieber sein gelassen...
+
+Wir haben außerdem an einem geführten Stadtrundgang teilgenommen, um die Stadt besser kennenzulernen. Aufgrund der Größe haben wir nur einen Bruchteil zu sehen bekommen, und trotzdem etwas über die _pueblos jóvenes_, die Elendsviertel, gelernt. Mehr und mehr Menschen auf der Suche nach einem besseren Leben ziehen von den Dörfern in die Hauptstadt. Viele von Ihnen können sich die Miete dort allerdings nicht leisten, und werden in die Randbezirke verdrängt. Wir haben deshalb lieber einen Bogen um die _pueblos jóvenes_ gemacht, da Sie für Gringos nicht allzu sicher sind.
+
+Nach einem durch und duch durchschnittlichen Aufenthalt in Lima machten wir uns auf, herauszufinden, was die Weiße Stadt Perus, Arequipa, zu bieten hat...
 
 ![Lima](/assets/images/posts/lima/4.jpg)
 
