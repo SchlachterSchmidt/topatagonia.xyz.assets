@@ -1,0 +1,29 @@
+---
+layout: post
+bg: "lima.jpg"
+title: Winter in Lima
+date:   2019-07-20 10:50:10 
+categories: jekyll photo-gallery
+---
+
+A few hours on a bus and we're in Lima.<br><br>
+
+
+It's a massive 10 million inhabitants city that spans along the coast and is surrounded by a desert. The city itself is one of the biggest ones we've seen yet - nothing is close and you always need to take a bus... That's probably one factor responsible for us not enjoying Lima all that much. Another one would be the weather. It's winter now in Lima and because of it's close proximity to the desert and the sea for the whole duration of the season is stays under a thick layer of clouds with no ray of sun to be spotted anywhere. Still, in the ocean, disregarding the weather, you could notice tens (if not hundreds) of surfers waiting for a perfect wave - Lima is a great spot for it all year round. Needless to say... we passed on surfing!
+
+We also did a free walking tour to get to know the city better. Because of the size of the city we've visited only a fraction of it yet we still got to see and learn about _pueblos jóvenes_, the peruvian equivalent of brazilian _favelas_. More and more poorer people on a search for a better life had to move from the villages around the country to Lima. Unfortunately a big chunk of them were unable to afford expensive rents of the peruvian capital city and got pushed out to the hilly outskirts of Lima. We passed on visiting _pueblos jóvenes_ - not the safest for gringos.
+
+After a pretty average stay in Lima, let's see what's cracking in the White City of Peru, Arequipa...
+
+![Lima](/assets/images/posts/lima/roadtripping.jpg)
+
+<b>POLSKI</b>
+
+
+![Lima](/assets/images/posts/lima/roadtripping.jpg)
+
+<b>DEUTSCH</b>
+
+
+![Lima](/assets/images/posts/lima/roadtripping.jpg)
+
