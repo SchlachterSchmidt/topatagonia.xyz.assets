@@ -4,6 +4,7 @@ bg: "cuba.jpg"
 title:  Cuba
 date:   2019-05-10 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Cuba'
 ---
 
 By all means of transportation we made it to Havana. We had to change our clocks one hour ahead and after an evening stroll along the Malecón Boulevard together with Gabi and Paulo we watched a breathtaking sunset, the sun and the sea went from yellow to orange to pink to red.<br><br>

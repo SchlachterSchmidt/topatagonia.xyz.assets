@@ -4,6 +4,7 @@ bg: "Latacunga.jpg"
 title: Hot springs in the Volcano-Avenue
 date:   2019-07-02 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Ecuador'
 ---
 
 Both Latacunga and Baños have tons of charm and a very different appeal.

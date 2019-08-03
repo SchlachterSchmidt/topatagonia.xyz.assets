@@ -4,6 +4,7 @@ bg: "huaraz.jpg"
 title: Andean hikes in Huascaran National Park
 date:   2019-07-14 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Peru'
 ---
 
 We're back in nature! <br><br>

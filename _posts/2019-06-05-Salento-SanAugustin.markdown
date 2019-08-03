@@ -4,6 +4,7 @@ bg: "cocora.jpg"
 title: Cocora Valley adventures, and prehispanic culture 
 date:   2019-06-05 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Colombia'
 ---
 
 A visit to the stunning natural reserve in the Cocora Valley was the reason we came to Salento, but we found much, much more to love.<br><br>

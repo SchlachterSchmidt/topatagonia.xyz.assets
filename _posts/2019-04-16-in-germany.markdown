@@ -4,6 +4,7 @@ bg: "forest-germany.jpg"
 title:  Hi Germany!
 date:   2019-04-16 17:38:10 
 categories: jekyll photo-gallery
+tags: 'Germany'
 ---
 
 The past two weeks we spent in the north of Germany at Philipp's parents place in a small village close to Bremen.<br><br>

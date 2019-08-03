@@ -4,6 +4,7 @@ bg: "otavalo.jpg"
 title: Visiting Ecuadors largest indigenous community in Otavalo
 date:   2019-06-10 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Ecuador'
 ---
 
 Ecuador, at last. <br><br>

@@ -4,6 +4,7 @@ bg: "penol.jpg"
 title:  Guatapé and Medellín
 date:   2019-05-22 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Colombia'
 ---
 
 After jumping around big cities it was long overdue to take a breather. From Cartagena we ended up heading south to Medellín and then to our final destination of Guatapé - a picturesque little village 80 km east from Medellín. <br><br>

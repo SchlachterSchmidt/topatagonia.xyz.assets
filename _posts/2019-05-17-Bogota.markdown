@@ -4,6 +4,7 @@ bg: "bogota.jpg"
 title:  Bogota and Cartagena
 date:   2019-05-17 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Colombia'
 ---
 
 After a 3,5 hour flight we arrived at Bogotá, the capital city of Colombia, at 2600 metres elevation.<br><br>

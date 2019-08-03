@@ -4,6 +4,7 @@ bg: "5.jpg"
 title:  Mexico
 date:   2019-05-05 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Mexico'
 ---
 
 After a 10 hour flight from Manchster, we finally arrived in Mexico for the first leg of our long journey and marry our friends on a beautiful beach near Xpu Ha.<br><br>

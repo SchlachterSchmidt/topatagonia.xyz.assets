@@ -4,6 +4,7 @@ bg: "arequipa.jpg"
 title: The White City of Peru
 date:   2019-07-27 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Peru'
 ---
 
 18 hour bus ride and we're in what turned out to be our favourite place in Peru yet!<br><br>

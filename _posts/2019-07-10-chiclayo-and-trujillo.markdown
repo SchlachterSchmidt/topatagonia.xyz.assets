@@ -4,6 +4,7 @@ bg: "trujillo.jpg"
 title: Pre-Inca Moche culture in Northern Peru
 date:   2019-07-10 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Peru'
 ---
 
 Hi Peru! <br><br>

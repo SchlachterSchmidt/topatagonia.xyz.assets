@@ -4,6 +4,7 @@ bg: "quito.jpg"
 title: Quito
 date:   2019-06-15 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Ecuador'
 ---
 
 A quick bus ride down south and we're in Quito. Located at 2850 metre over the sea level it's the highest (official) capital city in the world.

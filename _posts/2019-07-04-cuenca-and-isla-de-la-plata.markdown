@@ -4,6 +4,7 @@ bg: "cuenca.jpg"
 title: Reef snorkeling and colonial Cuenca
 date:   2019-07-04 10:50:10 
 categories: jekyll photo-gallery
+tags: 'Ecuador'
 ---
 
 While relaxing in Baños we kept on dreaming of Galapagos... <br><br>

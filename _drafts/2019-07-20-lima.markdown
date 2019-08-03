@@ -4,6 +4,7 @@ bg: "lima.jpg"
 title: Winter in Lima
 date:   2019-07-20 10:50:10
 categories: jekyll photo-gallery
+tags: 'Peru' 
 ---
 
 A few hours on the bus and we're in Lima.<br><br>
