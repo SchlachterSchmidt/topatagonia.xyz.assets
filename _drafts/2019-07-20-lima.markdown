@@ -2,7 +2,7 @@
 layout: post
 bg: "lima.jpg"
 title: Winter in Lima
-date:   2019-07-20 10:50:10 
+date:   2019-07-20 10:50:10
 categories: jekyll photo-gallery
 ---
 
@@ -15,15 +15,16 @@ We also did a free walking tour to get to know the city better. Because of the s
 
 After a pretty average stay in Lima, let's see what's cracking in the White City of Peru, Arequipa...
 
-![Lima](/assets/images/posts/lima/roadtripping.jpg)
+![Lima](/assets/images/posts/lima/10.jpg)
 
 <b>POLSKI</b>
 
 
-![Lima](/assets/images/posts/lima/roadtripping.jpg)
+![Lima](/assets/images/posts/lima/8.jpg)
 
 <b>DEUTSCH</b>
 
 
-![Lima](/assets/images/posts/lima/roadtripping.jpg)
+![Lima](/assets/images/posts/lima/4.jpg)
 
+{% includeGallery lima%}

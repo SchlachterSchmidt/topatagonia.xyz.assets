@@ -886,10 +886,6 @@ photos:
     img: "3"
     country: Peru
     album: lima
-  - title: Celebrations in the Barranco district
-    img: "4"
-    country: Peru
-    album: lima
   - title: Surfers in the cold water
     img: "5"
     country: Peru
@@ -902,16 +898,8 @@ photos:
     img: "7"
     country: Peru
     album: lima
-  - title: Paraglider taking off in Miraflores
-    img: "8"
-    country: Peru
-    album: lima
   - title: Barranco center
     img: "9"
-    country: Peru
-    album: lima
-  - title: Barranco street art
-    img: "10"
     country: Peru
     album: lima
   - title: Enjoying a luxury ride in first class
