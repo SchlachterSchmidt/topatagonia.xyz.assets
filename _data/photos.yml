@@ -870,51 +870,54 @@ photos:
     img: "11"
     country: Peru
     album: huaraz
-    
-    
+
+
 
 # Lima
-  - title: 
-    img: 
+  - title: Change of the guards
+    img: "1"
     country: Peru
     album: lima
-  - title: 
-    img: 
+  - title: Shrine to the Virgin of Czestochowa
+    img: "2"
     country: Peru
     album: lima
-  - title:
-    img:
+  - title: View over the less nice part of town
+    img: "3"
     country: Peru
     album: lima
-  - title:
-    img:
+  - title: Celebrations in the Barranco district
+    img: "4"
     country: Peru
     album: lima
-  - title:
-    img:
+  - title: Surfers in the cold water
+    img: "5"
     country: Peru
     album: lima
-  - title:
-    img:
-    country: Peru
-    album: lima 
-  - title:
-    img:
+  - title: Downtown
+    img: "6"
     country: Peru
     album: lima
-  - title:
-    img:
-    country: Peru
-    album: lima 
-  - title:
-    img:
+  - title: Flowers at the sea
+    img: "7"
     country: Peru
     album: lima
-  - title:
-    img:
+  - title: Paraglider taking off in Miraflores
+    img: "8"
     country: Peru
     album: lima
-              
+  - title: Barranco center
+    img: "9"
+    country: Peru
+    album: lima
+  - title: Barranco street art
+    img: "10"
+    country: Peru
+    album: lima
+  - title: Enjoying a luxury ride in first class
+    img: "11"
+    country: Peru
+    album: lima
 
 # Colca
   - title:
@@ -957,7 +960,7 @@ photos:
     img:
     country: Peru
     album: colca
-              
+
 # Arequipa
   - title:
     img:
