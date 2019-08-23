@@ -1,0 +1,36 @@
+---
+layout: post
+bg: "arequipa.jpg"
+title: The White City of Peru
+date:   2019-07-27 10:50:10 
+categories: jekyll photo-gallery
+tags: 'Peru'
+---
+
+18 hour bus ride and we're in what turned out to be our favourite place in Peru yet!<br><br>
+
+
+Arequipa is the second largest city of Peru with a bit less than a million inhabitants (quite a jump from 10 million in Lima). It's called the White City because most of its architecture is build of sillar - a light volcanic stone. Apart from wandering around the town and soaking in its freshness and charm we've found an amazing cafe where Phil did two courses: one on brewing coffee and the other one on types of espressos. Money well spent - when we go back to Europe I'm sure you can test his new skill. :)
+
+Sitting at the base of five volcanos Arequipa spoiled us with gorgeous sunsets. There is something about Peru and its blue and yellow and orange and pink evenings. It's definitely going to stay with us forever.
+
+And now.. the second deepest canyon in the world is calling. We're on our way, Colca! 
+  
+
+![Arequipa](/assets/images/posts/arequipa/roadtripping.jpg)
+
+<b>POLSKI</b>
+
+
+18 godzin busem i dotarliśmy do naszego (jak do tej pory) ulubionego miejsca w Peru!
+
+Arequipa to drugie największe miasto w Peru z nieco mniej niż milionem mieszkańców (wielki przeskok w dół od największej, 10 milionowej Limy). Arequipa jest też znana jako Białe Miasto ponieważ więkoszość budynków jest tu zbudowana z białych bloków kamienia wulkanicznego. Oprócz przechadzek po mieście i wdychaniu jego uroku znaleźliśmy dwie kafejki, gdzie Phil zrobił dwa kursy: parzenia kawy oraz typów espresso. Bardzo dobrze ulokowane pieniądze - kiedy wrócimy na pewno każdy z Was będzie mógł przetestować nową umiejętność Phila!
+
+Arequipa leżąca u podnóża pięciu wulkanów rozpieściła nas zachodami słońca. W tych które widzieliśmy w Peru kryje się szczególna magia... wszystkie te niebiesko żółto pomarańczowo różowe wieczory, które potrafią na moment zatrzymać bieg życia już na zawsze pozostaną z nami.
+
+A teraz nadszedł czas na drugi najgłębszy kanion na świecie. Żegnaj, Arequipo! Dzień dobry, Colca!
+
+
+{% includeGallery arequipa%}
+
+

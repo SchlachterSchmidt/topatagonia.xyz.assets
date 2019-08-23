@@ -950,43 +950,63 @@ photos:
     album: colca
 
 # Arequipa
-  - title:
-    img:
+  - title: View from our home in Arequipa
+    img: "1"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: View from our balcony in Arequipa
+    img: "2"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Viva Peru! Independence Day celebrations
+    img: "3"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Top floor of a bar to watch a sunset
+    img: "4"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: People getting spoiled with sunsets
+    img: "5"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: At the base of 5 volcanos
+    img: "6"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Italy or Peru?!
+    img: "7"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Gotta smile even though you're sick and you lost all your warm clothing
+    img: "8"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Arequipa old town 1
+    img: "9"
     country: Peru
     album: arequipa
-  - title:
-    img:
+  - title: Arequipa old town 2
+    img: "10"
+    country: Peru
+    album: arequipa
+  - title: Lessons of coffee
+    img: "11"
+    country: Peru
+    album: arequipa
+  - title: ...and another stunning sunset
+    img: "12"
+    country: Peru
+    album: arequipa
+  - title: Getting some work done!
+    img: "13"
+    country: Peru
+    album: arequipa
+  - title: Sunset dog
+    img: "14"
+    country: Peru
+    album: arequipa
+  - title: Ahhh those Peruvian sunsets...!!!
+    img: "16"
     country: Peru
     album: arequipa
