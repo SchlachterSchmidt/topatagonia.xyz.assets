@@ -908,46 +908,83 @@ photos:
     album: lima
 
 # Colca
-  - title:
-    img:
+  - title: While on our way to Colca Canyon...
+    img: "1"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Notice the statue. Incas didn't hide their hate for the Spaniards
+    img: "2"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Hiking Colca Canyon
+    img: "5"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: This is the path we will walk tomorrow
+    img: "6"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Blue skies over the canyon
+    img: "8"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: So so blue!
+    img: "9"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Lost in the desert
+    img: "12"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Use security belt - like this was gonna help when you drop 800m
+    img: "13"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Cacti path
+    img: "14"
     country: Peru
     album: colca
-  - title:
-    img:
+  - title: Hide under the bandana before the sun gets to you
+    img: "15"
     country: Peru
     album: colca
+  - title: Good morning, gorgeous!
+    img: "16"
+    country: Peru
+    album: colca
+  - title: Path to the top on day 2
+    img: "17"
+    country: Peru
+    album: colca
+  - title: More cacti everywhere!
+    img: "18"
+    country: Peru
+    album: colca
+  - title: Almost at the oasis!!! Pondering the miracle of water
+    img: "19"
+    country: Peru
+    album: colca
+  - title: ...more pondering
+    img: "21"
+    country: Peru
+    album: colca
+  - title: ...and more pondering
+    img: "22"
+    country: Peru
+    album: colca
+  - title: OASIS!!!!
+    img: "23"
+    country: Peru
+    album: colca
+  - title: quick Andean condors
+    img: "24"
+    country: Peru
+    album: colca
+  - title: Hell yeah! We made it crossing Colca canyon twice!
+    img: "26"
+    country: Peru
+    album: colca
+
 
 # Arequipa
   - title: View from our home in Arequipa

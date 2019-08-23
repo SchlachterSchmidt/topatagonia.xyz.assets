@@ -21,15 +21,20 @@ We're happy we hiked instead of taking the tour. Even though it was crazy diffic
 After a long bus ride (and seeing a volcano erupt!) we got back to Arequipa. It's time for Cusco and Machu Picchu...
   
 
-![Colca](/assets/images/posts/colca/roadtripping.jpg)
+![Colca](/assets/images/posts/colca/11.jpg)
 
 <b>POLSKI</b>
 
+... wracamy do natury!
 
-![Colca](/assets/images/posts/colca/roadtripping.jpg)
+Z niesamowitą głębością 3270m kanion Colca jest drugim najgłębszym kanionem na świecie. Brzmi jak super okazja na przechadzkę! Ok... Ja miałam na początku strasznego lenia i chciałam wziąć wycieczkę zorganizowaną, ale koniec końców przygoda wygrała - idziemy sami!
 
-<b>DEUTSCH</b>
+Trasa była piekielnie trudna, o wiele trudniejsza niż się spodziewaliśmy. Przekroczyliśmy kanion dwa razy (!) - od samej góry do samego dołu. W sumie przeszliśmy ok 20 kilometrów. Niby nie tak dużo, ale jeśli wziąć pod uwagę zmianę wysokości nad poziomem morza: pierwszy dzień 700 m w dół, drugi dzień 700 m w górę i 700 m w dół no i trzeci dzień z ponad kilometrem (!) w górę... można zrozumieć dlaczego trasa była trudna. Codziennie wyruszaliśmy bardzo wcześnie aby unikąć słońca. Kanion Colca to częściowo pustynia i temperatura w południe kilka razy poszybowała nie do zniesienia... co zaowocowało w dramacie jednego z nas i chęci zawrócenia pomimo tego że byliśmy na środku pustyni i nie było opcji, bo powrót byłby tak samo ciężki jak kontynuacja (ok.. to byłam ja :P )
 
+Podczas trasy zatrzymywaliśmy się w miejsach bez elektryczności - jedno z nich to oaza na samym dnie kanionu. Na własne oczy przekonaliśmy się jakim cudem jest woda. To dzięki samotnemu wodospadowi maleńka oaza mogła w ogóle zaistnieć. Bardzo potrzebowaliśmy takiego czasu z dala od zgiełku i huku miast, bez internetu, elektryczności i ciepłej wody spędziliśmy cały czas w oazie grając w karty i jengę, pływając i... oglądając gwiazdy. Nigdy nie widziałam czystszego nieba w nocy.. po raz pierwszy na własne oczy ujrzałam... DROGĘ MLECZNĄ!!!! Bez teleskopu, bez aparatu, bez urządzeń. To było coś niesamowitego.
 
-![Colca](/assets/images/posts/colca/roadtripping.jpg)
+Bardzo się cieszę, że poszliśmy sami zamiast brać udział w zorganizowanej wycieczce. Pomimo tego, że wyprawa była piekielnie trudna udało nam się pobyć sam na sam bez żywej duszy w pobliżu, obejrzeć gwiazdy i drogę mleczną, poczytać, porozmawiać o przyszłości... Czy ten wypad mógłby być lepszy? Chyba nie...
 
+Po długim busie powrotnym do Arequipy (i ujrzeniu wybuchającego wulkanu!!) wskoczyliśmy do nocnego busa. Uwaga, uwaga... czas na MACHU PICCHU!
+
+{% includeGallery colca%}
